@@ -9,7 +9,7 @@ Publishing on the web is fundamentally broken. What started as an open web of pa
 
 These companies control, often in ways they themselves don't even understand, what we read, who we talk to, and what ideas gain traction in our culture. Their pursuit of "engagement" has had tremendous negative consequences for society.
 
-It's time for the web to return to it's open and decentralized roots. It's time for us to take back control of what information we consume, and how we consume it. It's time for us to build more open-minded and constructive communities on internet.
+It's time for the web to return to its open and decentralized roots. It's time for us to take back control of what information we consume, and how we consume it. It's time for us to build more open-minded and constructive communities on internet.
 
 Nostr enables this.
 
